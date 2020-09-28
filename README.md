@@ -14,10 +14,12 @@ Meu linkedin: [![LinkedIn][1.1]][1].
 [1]: https://www.linkedin.com/in/wellington-thalyson-876143b9/
 
 <h4> Histórico: :man_student: </h4>
-<p> Fui estagiário nessas empresas (Desenvolvimento web): Inatel - Instituto Federal do Sul de minas - Hospital das Clínicas Samuel Libânio :rocket:</p>
-<p> Ministrei cursos de programação pela UNIVÁS :technologist: </p>
-<p> Atuei na construção de aplicativos junto ao curso de Fisioterapia :man_health_worker:</p>
-<p> Finalizo minha formação em Bacharel em Sistemas da Informação em dezembro de 2020 :man_technologist:</p>
+<ul>
+  <li> Fui estagiário nessas empresas (Desenvolvimento web): Inatel - Instituto Federal do Sul de minas - Hospital das Clínicas Samuel Libânio :rocket:</li>
+  <li> Ministrei cursos de programação pela UNIVÁS :technologist: </li>
+  <li> Atuei na construção de aplicativos junto ao curso de Fisioterapia :man_health_worker:</li>
+  <li> Finalizo minha formação em Bacharel em Sistemas da Informação em dezembro de 2020 :man_technologist:</li>
+</ul>
 
 <h4> Ferramentas que utilizo: </h4>
 <p>
