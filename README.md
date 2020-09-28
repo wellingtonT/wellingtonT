@@ -2,7 +2,7 @@
 
 Sem bem vindos ao meu GitHub! :sunglasses: 
 
-Sou Wellington Thalyson, desenvolvedor web e mobile, atuo em todas as áreas (JavaScript é vida! :heartpulse:), principalmento back-end. Nesse repositório, deixarei os códigos fontes dos projetos que venho trabalhando (Open Source - Claro! :upside_down_face:), praticando e aprendendo novas linguagens e frameworks. Estou sempre buscando novos conhecimentos para agregar a minha mochila de ferramentas, a ponto de encontrar sempre as melhores soluções para os desafios que encaro.
+Sou Wellington Thalyson, desenvolvedor web e mobile, atuo em todas as áreas, principalmento back-end. Nesse repositório, deixarei os códigos fontes dos projetos que venho trabalhando (Open Source - Claro!), praticando e aprendendo novas linguagens e frameworks. Estou sempre buscando novos conhecimentos para agregar a minha mochila de ferramentas, a ponto de encontrar sempre as melhores soluções para os desafios que encaro.
 
 Meu linkedin: [![LinkedIn][1.1]][1].
 
@@ -16,9 +16,9 @@ Meu linkedin: [![LinkedIn][1.1]][1].
 <h4> Histórico: :man_student: </h4>
 <ul>
   <li> Fui estagiário nessas empresas (Desenvolvimento web): Inatel - Instituto Federal do Sul de minas - Hospital das Clínicas Samuel Libânio :rocket:</li>
-  <li> Ministrei cursos de programação pela UNIVÁS :technologist: </li>
-  <li> Atuei na construção de aplicativos junto ao curso de Fisioterapia :man_health_worker:</li>
-  <li> Finalizo minha formação em Bacharel em Sistemas da Informação em dezembro de 2020 :man_technologist:</li>
+  <li> Ministrei cursos de programação pela UNIVÁS </li>
+  <li> Atuei na construção de aplicativos junto ao curso de Fisioterapia </li>
+  <li> Finalizo minha formação em Bacharel em Sistemas da Informação em dezembro de 2020 </li>
 </ul>
 
 <h4> Ferramentas que utilizo: </h4>
