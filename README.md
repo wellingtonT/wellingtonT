@@ -7,11 +7,17 @@ Sou Wellington Thalyson, desenvolvedor web e mobile, atuo em todas as áreas (Ja
 Meu linkedin: [![LinkedIn][1.1]][1].
 
 <!-- Icons -->
-[1.1]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[1.1]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn)
 
 <!-- Links to your social media accounts -->
 
 [1]: https://www.linkedin.com/in/wellington-thalyson-876143b9/
+
+<h4> Histórico: :man_student: </h4>
+<p> Fui estagiário nessas empresas (Desenvolvimento web): Inatel - Instituto Federal do Sul de minas - Hospital das Clínicas Samuel Libânio :rocket:</p>
+<p> Ministrei cursos de programação pela UNIVÁS :technologist: </p>
+<p> Atuei na construção de aplicativos junto ao curso de Fisioterapia :man_health_worker:</p>
+<p> Finalizo minha formação em Bacharel em Sistemas da Informação em dezembro de 2020 :man_technologist:</p>
 
 <h4> Ferramentas que utilizo: </h4>
 <p>
