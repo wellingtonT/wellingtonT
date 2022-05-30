@@ -18,7 +18,8 @@ Meu linkedin: [![LinkedIn][1.1]][1].
   <li> Fui estagiário nessas empresas (Desenvolvimento web): Inatel - Instituto Federal do Sul de minas - Hospital das Clínicas Samuel Libânio :rocket:</li>
   <li> Ministrei cursos de programação pela UNIVÁS </li>
   <li> Atuei na construção de aplicativos junto ao curso de Fisioterapia </li>
-  <li> Finalizo minha formação em Bacharel em Sistemas da Informação em dezembro de 2020 </li>
+  <li> Finalizei minha formação em Bacharel em Sistemas da Informação em dezembro de 2020 </li>
+  <li> Atuei como especialista em sistemas pela INATEL (Instituto Nacional de Telecomunicações) </li>
 </ul>
 
 <h4> Ferramentas que utilizo: </h4>
@@ -32,10 +33,6 @@ Meu linkedin: [![LinkedIn][1.1]][1].
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-6fc590?style=flat&logo=mongodb&logoColor=black" /> 
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-6fc590?style=flat&logo=postgresql&logoColor=black" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-6fc590?style=flat&logo=mysql&logoColor=black" />
-  <img alt="java" src="https://img.shields.io/badge/-Java-6fc590?style=flat&logo=java&logoColor=black" /> 
   <img alt="Python" src="https://img.shields.io/badge/-Python-6fc590?style=flat&logo=python&logoColor=black" /> 
-  <img alt="Django" src="https://img.shields.io/badge/-Django-6fc590?style=flat&logo=django&logoColor=black" /> 
-  <img alt="React" src="https://img.shields.io/badge/-React-6fc590?style=flat&logo=react&logoColor=black" /> 
-  <img alt="React Native" src="https://img.shields.io/badge/-ReactNative-6fc590?style=flat&logo=react&logoColor=black" /> 
   <img alt="PHP" src="https://img.shields.io/badge/-Php-6fc590?style=flat&logo=php&logoColor=black" /> 
 </p>
