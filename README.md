@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Sem bem vindos ao meu GitHub! :sunglasses: 
+Sejam bem vindos ao meu GitHub! :sunglasses: 
 
 Sou Wellington Thalyson, desenvolvedor web e mobile, atuo em todas as áreas, principalmente back-end. Nesse repositório, deixarei os códigos fontes dos projetos que venho trabalhando (Open Source - Claro!), praticando e aprendendo novas linguagens e frameworks. Estou sempre buscando novos conhecimentos para agregar a minha mochila de ferramentas, a ponto de encontrar sempre as melhores soluções para os desafios que encaro.
 
